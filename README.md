@@ -9,7 +9,7 @@ A Telegram bot that translates between Amharic and English using Groq's Llama 3.
 - 🚫 Error handling for unsupported languages
 
 ## Prerequisites
-- Python 3.8+
+- Python
 - Telegram Bot Token ([@BotFather](https://t.me/botfather))
 - Groq API Key ([console.groq.com](https://console.groq.com))
 
