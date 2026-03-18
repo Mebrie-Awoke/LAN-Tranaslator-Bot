@@ -1,4 +1,5 @@
 # Amharic-English Translator Bot
+check it: @lantranslator_bot
 
 A Telegram bot that translates between Amharic and English using Groq's Llama 3.3 70B model.
 
