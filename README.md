@@ -41,5 +41,4 @@ python bot.py
 ## Built With
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
 - [Groq API](https://groq.com)
-- Llama 3.3 70B
-
+- Llama 3.3 70
